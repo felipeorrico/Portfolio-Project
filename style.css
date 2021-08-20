@@ -29,7 +29,6 @@
 }
 
 body {
-    /*background: -webkit-linear-gradient(-90deg, #000000, #D73F09);*/
     background: white;
 }
 
@@ -71,7 +70,6 @@ hr{
 
 .input-title{
     color: black;
-
 }
 
 .info{
