@@ -31,11 +31,11 @@
 
 body {
     /*background: -webkit-linear-gradient(-90deg, #000000, #D73F09);*/
-    background: black;
+    background: white;
 }
 
 h2 {
-    color: white;
+    color: black;
 }
 
 .info h2{
@@ -45,7 +45,7 @@ h2 {
 hr{
     height: 2px;
     border: none;
-    background-color: white;
+    background-color: black;
 }
 
 .input-separator {
@@ -67,18 +67,18 @@ hr{
 }
 
 .input-content{
-    color: aliceblue;
+    color: black;
 }
 
 .input-title{
-    color: whitesmoke;
+    color: black;
 
 }
 
 .info{
-    background: #D73F09;
+    background: lightgray;
     border-radius: 25px;
-    border-color: white;
+    border-color: lightgray;
     padding: 10px;
     border-style: solid;
 }
