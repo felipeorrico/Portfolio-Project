@@ -53,15 +53,16 @@ hr{
 }
 
 .input-title{
-    display: inline-block;
+    display: block;
     font-size: 20px;
 }
 
 .input-date{
     font-weight: normal;
-    text-align: center;
-    position: absolute;
-    left: 50%;
+    text-align: right;
+    width: auto;
+    float: right;
+    padding: 0 1px;
 }
 
 .input-content{
